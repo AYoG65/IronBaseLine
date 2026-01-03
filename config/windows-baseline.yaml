@@ -1,0 +1,8 @@
+accounts:
+  disable_guest: true
+  password_min_length: 14
+network:
+  disable_smbv1: true
+  firewall_enabled: true
+auditing:
+  logon_events: true

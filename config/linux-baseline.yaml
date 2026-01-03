@@ -1,0 +1,9 @@
+ssh:
+  disable_root_login: true
+  password_auth: false
+firewall:
+  default_deny: true
+logging:
+  auditd: enabled
+passwords:
+  min_length: 14
