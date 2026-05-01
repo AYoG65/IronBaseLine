@@ -1,4 +1,4 @@
-# IronBaseLine 🔒
+# IronBaseLine 
 
 A cross-platform CIS Benchmark Level 1 hardening framework for Windows and Linux systems. Supports audit, harden, and rollback modes — designed to be safe enough to run in production environments without causing outages.
 
